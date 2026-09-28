@@ -48,4 +48,4 @@ Para manter o histórico limpo e rastreável, utilizo o padrão Conventional Com
 
 - feat: Nova funcionalidade ou exercício concluído
 - fix: Correção de bugs em exercícios/projetos
-- boss: Conclusão de um projeto final/desafio do módulo
+- project: Conclusão de um projeto final/desafio do módulo
